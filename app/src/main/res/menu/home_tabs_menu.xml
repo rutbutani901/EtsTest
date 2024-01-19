@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@mipmap/ic_launcher"
+        />
+
+    <item
+        android:id="@+id/category"
+        android:title="@string/category"
+         android:icon="@mipmap/ic_launcher"/>
+
+    <item
+        android:id="@+id/curate"
+        android:title="@string/curate"
+         android:icon="@mipmap/ic_launcher"/>
+    <item
+        android:id="@+id/sale"
+        android:title="@string/sale"
+         android:icon="@mipmap/ic_launcher"/>
+    <item
+        android:id="@+id/more"
+        android:title="@string/more"
+         android:icon="@mipmap/ic_launcher"/>
+
+</menu>
